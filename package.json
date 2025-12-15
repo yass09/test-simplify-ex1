@@ -1,0 +1,9 @@
+{
+  "name": "test-simplify-ex1",
+  "license": "MIT",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node test/pricing.test.js"
+  }
+}
